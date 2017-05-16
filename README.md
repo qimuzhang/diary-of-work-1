@@ -12,6 +12,7 @@
 ==================
 ### 2017 年 5 月
 
+* [2017.05.16](https://github.com/foreverZ133/diary-of-work/blob/master/2017/05/20170516.md)
 * [2017.05.15](https://github.com/foreverZ133/diary-of-work/blob/master/2017/05/20170515.md)
 * [2017.05.12](https://github.com/foreverZ133/diary-of-work/blob/master/2017/05/20170512.md)
 * [2017.05.11](https://github.com/foreverZ133/diary-of-work/blob/master/2017/05/20170511.md)
