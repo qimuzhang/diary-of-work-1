@@ -1,15 +1,18 @@
 记录每天工作细节，借此发现日常里零碎的时间段与自己所做事情的意义
-# diary-of-work（工作日记）
+
+---
 
 ## 其他笔记或随笔
 * [《用户体验要素》笔记](https://github.com/foreverZ133/diary-of-work/blob/master/note/%E3%80%8A%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E8%A6%81%E7%B4%A0%E3%80%8B.md)
 * [排版时文字太多怎么办](https://github.com/foreverZ133/diary-of-work/blob/master/note/文字太多怎么办.md)
+* [移动营销笔记](https://github.com/foreverZ133/diary-of-work/blob/master/note/移动营销.md)
 
 
 ## 每日工作细节记录
 ==================
 ### 2017 年 6 月
-[3日](https://github.com/foreverZ133/diary-of-work/blob/master/2017/06/20170603.md) / 
+[6日](https://github.com/foreverZ133/diary-of-work/blob/master/2017/06/20170606.md) / 
+[5日](https://github.com/foreverZ133/diary-of-work/blob/master/2017/06/20170605.md) / 
 [2日](https://github.com/foreverZ133/diary-of-work/blob/master/2017/06/20170602.md) / 
 [1日](https://github.com/foreverZ133/diary-of-work/blob/master/2017/06/20170601.md)
 
