@@ -11,6 +11,7 @@
 ## 每日工作细节记录
 ==================
 ### 2017 年 6 月
+[30日](https://github.com/foreverZ133/diary-of-work/blob/master/2017/06/20170630.md) /
 [29日](https://github.com/foreverZ133/diary-of-work/blob/master/2017/06/20170629.md) /
 [28日](https://github.com/foreverZ133/diary-of-work/blob/master/2017/06/20170628.md) /
 [27日](https://github.com/foreverZ133/diary-of-work/blob/master/2017/06/20170627.md) /
