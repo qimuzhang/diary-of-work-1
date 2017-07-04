@@ -32,7 +32,7 @@ https://github.com/
 ### 官方客户端下载地址
 http://pan.baidu.com/s/1c4HT50
 
-官方客户端操作仅有“更新”和“分支”两种操作，如果内容冲突，会在冲突处修改为注释来提示
+官方客户端操作仅有“更新”和“分支”两种操作，更新即为拉取/推送，所以不适用于多人协作
 
 ### SourceTree 下载地址
 https://www.sourcetreeapp.com/
